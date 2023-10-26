@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="362.729" height="464.874" viewBox="0 0 362.729 464.874">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#779dfe"/>
+      <stop offset="1" stop-color="#4afde9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#798ba0"/>
+      <stop offset="1" stop-color="#607286"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.037" y1="0.048" x2="0.906" y2="0.835" gradientUnits="objectBoundingBox">
+      <stop offset="0.019" stop-color="#f5f5f5"/>
+      <stop offset="0.982" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="testing" transform="translate(-381 -7213)">
+    <text id="Testing-2" data-name="Testing" transform="translate(561.5 7276)" fill="#3a3a3a" stroke="#707070" stroke-width="1" font-size="69" font-family="Arial-BoldItalicMT, Arial" font-weight="700" font-style="italic"><tspan x="-121.39" y="0">Testing</tspan></text>
+    <path id="test-shape" d="M0-47.56s182.02-106.775,177.849-109.4,184.88,109.4,184.88,109.4V136.472s-191.5,90.806-191.332,91.389S0,136.472,0,136.472Z" transform="translate(381 7450.01)" fill="url(#linear-gradient)"/>
+    <g id="test-img" transform="translate(494 7401)">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(0 14.13)">
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" width="136.851" height="153.077" fill="url(#linear-gradient-2)"/>
+        <rect id="Rectangle_9-3" data-name="Rectangle 9" width="136.851" height="153.077" fill="rgba(216,216,216,0.04)"/>
+      </g>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="110.017" height="123.639" transform="translate(13.417 28.26)" fill="#ccc"/>
+      <rect id="Rectangle_11-2" data-name="Rectangle 11" width="110.017" height="122.462" transform="translate(13.417 24.728)" fill="#e6e6e6"/>
+      <rect id="Rectangle_11-3" data-name="Rectangle 11" width="110.017" height="115.397" transform="translate(13.417 27.083)" fill="#ebebeb"/>
+      <g id="Rectangle_11-4" data-name="Rectangle 11" transform="translate(13.417 24.728)">
+        <rect id="Rectangle_11-5" data-name="Rectangle 11" width="110.017" height="117.752" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectangle_11-6" data-name="Rectangle 11" width="110.017" height="117.752" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <path id="line" d="M0,4.71V0H64.212V4.71Z" transform="translate(45.617 67.904)" fill="#c5c5c5"/>
+      <path id="line-2" data-name="line" d="M0,4.71V0H64.212V4.71Z" transform="translate(45.617 86.351)" fill="#c5c5c5"/>
+      <path id="line-3" data-name="line" d="M0,4.71V0H64.212V4.71Z" transform="translate(45.617 104.799)" fill="#c5c5c5"/>
+      <path id="line-4" data-name="line" d="M0,4.71V0H50.8V4.71Z" transform="translate(45.617 49.456)" fill="#c5c5c5"/>
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(38.909)">
+        <rect id="Rectangle_10-2" data-name="Rectangle 10" width="61.717" height="30.615" fill="#d2d2d2"/>
+        <rect id="Rectangle_10-3" data-name="Rectangle 10" width="61.717" height="30.615" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <rect id="Rectangle_10-4" data-name="Rectangle 10" width="61.717" height="7.065" transform="translate(38.909)" fill="#fff" opacity="0.2"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="16.1" height="2.355" transform="translate(41.592 2.355)" fill="#fff"/>
+      <rect id="Rectangle_10_Copy" data-name="Rectangle 10 Copy" width="61.717" height="15.308" transform="translate(38.909 15.308)" opacity="0.1"/>
+      <rect id="Rectangle_10_Copy-2" data-name="Rectangle 10 Copy" width="61.717" height="2.355" transform="translate(38.909 30.615)" opacity="0.1"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="110.017" height="1.178" transform="translate(13.417 142.48)" fill="rgba(0,0,0,0.1)"/>
+      <rect id="Rectangle_12_Copy" data-name="Rectangle 12 Copy" width="110.017" height="1.178" transform="translate(13.417 147.19)" fill="rgba(0,0,0,0.1)"/>
+      <rect id="Rectangle_12_Copy_2" data-name="Rectangle 12 Copy 2" width="110.017" height="1.178" transform="translate(13.417 151.9)" fill="rgba(0,0,0,0.1)"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="136.851" height="4.71" transform="translate(0 162.497)" opacity="0.1"/>
+      <path id="correct" d="M0,2.655,3.266,5.521,9.557,0" transform="translate(26.668 48.017)" fill="none" stroke="#5cbf5c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="correct-2" data-name="correct" d="M0,2.655,3.266,5.521,9.557,0" transform="translate(26.668 66.857)" fill="none" stroke="#5cbf5c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="correct-3" data-name="correct" d="M0,2.655,3.266,5.521,9.557,0" transform="translate(26.668 84.52)" fill="none" stroke="#5cbf5c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="correct-4" data-name="correct" d="M0,2.655,3.266,5.521,9.557,0" transform="translate(26.668 103.36)" fill="none" stroke="#5cbf5c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

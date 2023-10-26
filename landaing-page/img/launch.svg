@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="362.729" height="464.874" viewBox="0 0 362.729 464.874">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#779dfe"/>
+      <stop offset="1" stop-color="#4afde9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#f5f5f5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x2="0.966" y2="0.966" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eaeaea"/>
+      <stop offset="1" stop-color="#ddd"/>
+    </linearGradient>
+  </defs>
+  <g id="launch" transform="translate(-869 -7213)">
+    <text id="Launch-2" data-name="Launch" transform="translate(1050.5 7276)" fill="#3a3a3a" stroke="#707070" stroke-width="1" font-size="69" font-family="Arial-BoldItalicMT, Arial" font-weight="700" font-style="italic"><tspan x="-122.67" y="0">Launch</tspan></text>
+    <path id="lunch-shape" d="M0-47.56s182.02-106.775,177.849-109.4,184.88,109.4,184.88,109.4V136.472s-191.5,90.806-191.332,91.389S0,136.472,0,136.472Z" transform="translate(869 7450.01)" fill="url(#linear-gradient)"/>
+    <g id="rocket" transform="translate(1006 7398)">
+      <g id="Path_41" data-name="Path 41">
+        <path id="Path_41-2" data-name="Path 41" d="M15.631,0,4.933,10.159A15.84,15.84,0,0,0,0,21.645V61.613a.528.528,0,0,0,.922.351L25,34.929C19.177,8.519,15.631,0,15.631,0Z" transform="translate(0 112)" fill="#e86e6e"/>
+        <path id="Path_41-3" data-name="Path 41" d="M15.631,0,4.933,10.159A15.84,15.84,0,0,0,0,21.645V61.613a.528.528,0,0,0,.922.351L25,34.929C19.177,8.519,15.631,0,15.631,0Z" transform="translate(0 112)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <g id="Path_41-4" data-name="Path 41">
+        <path id="Path_41-5" data-name="Path 41" d="M-15.631,0l10.7,10.159A15.84,15.84,0,0,1,0,21.645V61.613a.528.528,0,0,1-.922.351L-25,34.929C-19.177,8.519-15.631,0-15.631,0Z" transform="translate(89 112)" fill="#e86e6e"/>
+        <path id="Path_41-6" data-name="Path 41" d="M-15.631,0l10.7,10.159A15.84,15.84,0,0,1,0,21.645V61.613a.528.528,0,0,1-.922.351L-25,34.929C-19.177,8.519-15.631,0-15.631,0Z" transform="translate(89 112)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <g id="Rectangle_157" data-name="Rectangle 157">
+        <path id="Rectangle_157-2" data-name="Rectangle 157" d="M0,0H39l-.886,3H.886Z" transform="translate(25 152)" fill="#9c9c9c"/>
+        <path id="Rectangle_157-3" data-name="Rectangle 157" d="M0,0H39l-.886,3H.886Z" transform="translate(25 152)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <path id="Combined_Shape" data-name="Combined Shape" d="M.816,5.266,6.405,0l0,.005c.149.367,3.729,9.287,9.366,34.655l-4.229,4.711A188.588,188.588,0,0,1,.816,5.266ZM55.3,34.661C61.052,8.753,64.631.085,64.666,0l5.5,5.18A184.166,184.166,0,0,1,59.369,39.2Z" transform="translate(9 112)" opacity="0.1"/>
+      <g id="Rectangle_153" data-name="Rectangle 153">
+        <path id="Rectangle_153-2" data-name="Rectangle 153" d="M1.962,63.31C7.554,26.235,34.877,0,34.877,0s26.17,26.332,32.017,63.31C74.394,110.746,55.185,153,55.185,153H13.671S-5.178,110.649,1.962,63.31Z" transform="translate(10)" fill="url(#linear-gradient-2)"/>
+        <path id="Rectangle_153-3" data-name="Rectangle 153" d="M1.962,63.31C7.554,26.235,34.877,0,34.877,0s26.17,26.332,32.017,63.31C74.394,110.746,55.185,153,55.185,153H13.671S-5.178,110.649,1.962,63.31Z" transform="translate(10)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <g id="Combined_Shape-2" data-name="Combined Shape">
+        <path id="Combined_Shape-3" data-name="Combined Shape" d="M4.173,10S2.5,6.347.334,0H49.666c-2.106,6.35-3.742,10-3.742,10Z" transform="translate(20 143)" fill="#d3d3d3"/>
+        <path id="Combined_Shape-4" data-name="Combined Shape" d="M4.173,10S2.5,6.347.334,0H49.666c-2.106,6.35-3.742,10-3.742,10Z" transform="translate(20 143)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <g id="Combined_Shape-5" data-name="Combined Shape">
+        <path id="Combined_Shape-6" data-name="Combined Shape" d="M.771,28A124.9,124.9,0,0,1,21.4,0a127.984,127.984,0,0,1,19.87,28Z" transform="translate(23)" fill="#e86e6e"/>
+        <path id="Combined_Shape-7" data-name="Combined Shape" d="M.771,28A124.9,124.9,0,0,1,21.4,0a127.984,127.984,0,0,1,19.87,28Z" transform="translate(23)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <g id="Oval_49" data-name="Oval 49">
+        <ellipse id="Oval_49-2" data-name="Oval 49" cx="22.5" cy="22" rx="22.5" ry="22" transform="translate(22 47)" fill="url(#linear-gradient-3)"/>
+        <ellipse id="Oval_49-3" data-name="Oval 49" cx="22.5" cy="22" rx="22.5" ry="22" transform="translate(22 47)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <g id="Oval_49-4" data-name="Oval 49">
+        <ellipse id="Oval_49-5" data-name="Oval 49" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(26 51)" fill="#588cbe"/>
+        <ellipse id="Oval_49-6" data-name="Oval 49" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(26 51)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+      <circle id="Oval_50" data-name="Oval 50" cx="2.5" cy="2.5" r="2.5" transform="translate(46 57)" fill="#fff"/>
+      <circle id="Oval_50-2" data-name="Oval 50" cx="2" cy="2" r="2" transform="translate(53 62)" fill="#fff"/>
+      <circle id="Oval_51" data-name="Oval 51" cx="1.5" cy="1.5" r="1.5" transform="translate(63 89)" opacity="0.1"/>
+      <g id="Rectangle_156" data-name="Rectangle 156">
+        <path id="Rectangle_156-2" data-name="Rectangle 156" d="M.006,4.728A4.5,4.5,0,0,1,4.5,0h0A4.5,4.5,0,0,1,8.994,4.728l-2.835,55.7A1.661,1.661,0,0,1,4.5,62h0a1.661,1.661,0,0,1-1.658-1.576Z" transform="translate(40 112)" fill="#e86e6e"/>
+        <path id="Rectangle_156-3" data-name="Rectangle 156" d="M.006,4.728A4.5,4.5,0,0,1,4.5,0h0A4.5,4.5,0,0,1,8.994,4.728l-2.835,55.7A1.661,1.661,0,0,1,4.5,62h0a1.661,1.661,0,0,1-1.658-1.576Z" transform="translate(40 112)" fill="rgba(216,216,216,0.02)"/>
+      </g>
+    </g>
+  </g>
+</svg>
